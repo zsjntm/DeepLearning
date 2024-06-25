@@ -1,1 +1,1 @@
-a simple project to train and evaluate semantic segmentation model by a simple train recipe.
+a simple project to train semantic segmentation model by a simple train recipe and evaluate them.
